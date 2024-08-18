@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "productName": "Product 1",
+      "productImage": "/images/cap.png",
+      "productPrice": 29.99
+      
+    },
+    {
+      "id": 2,
+      "productName": "Product 2",
+      "productImage": "/images/earbuds.jpg",
+      "productPrice": 39.99
+      
+    },
+    {
+        "id": 3,
+        "productName": "Product 3",
+        "productImage": "/images/headphone.jpg",
+        "productPrice": 200.00
+        
+      },
+      {
+        "id": 4,
+        "productName": "Product 4",
+        "productImage": "/images/ipad.jpg",
+        "productPrice": 300.00
+        
+      },
+      {
+        "id": 5,
+        "productName": "Product 5",
+        "productImage": "/images/iphone.jpg",
+        "productPrice": 450.60
+        
+      },
+      {
+        "id": 6,
+        "productName": "Product 6",
+        "productImage": "/images/jacket.jpg",
+        "productPrice": 650.00
+        
+      },
+      {
+        "id": 7,
+        "productName": "Product 7",
+        "productImage": "/images/mackbook.jpg",
+        "productPrice": 400.50
+        
+      },
+      {
+        "id": 8,
+        "productName": "Product 8",
+        "productImage": "/images/sandal.jpg",
+        "productPrice": 800.90
+        
+      },
+      {
+        "id": 9,
+        "productName": "Product 9",
+        "productImage": "/images/shoes.jpg",
+        "productPrice": 340.50
+        
+      },
+      {
+        "id": 10,
+        "productName": "Product 10",
+        "productImage": "/images/watch.jpg",
+        "productPrice": 300.70
+        
+      }
+    
+  ]
+  
